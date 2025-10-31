@@ -1,6 +1,6 @@
 README
 
-This database contains sample non-complementary responses to aggression. The database consists of three csvs,
+This database contains [will contain] sample non-complementary responses to aggression. The database consists of three csvs,
 
 1. Non-complementary aggression responses (general)
 2. Non-complementary aggression responses (online)
